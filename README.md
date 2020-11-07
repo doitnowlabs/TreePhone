@@ -1,2 +1,3 @@
 # TreePhone
-Story Tree Arduino Code
+TreePhone Arduino Code
+Tell the tree your story, Jack.
